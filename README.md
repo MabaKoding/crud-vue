@@ -1,7 +1,3 @@
-# crud-vue
-
-> Application CRUD building with VUE JS and REST API FLASK Python
-
 ## Build Setup
 
 ``` bash
